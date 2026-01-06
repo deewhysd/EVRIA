@@ -1,0 +1,7 @@
+{
+  "name": "EVRIA - Crypto Redemption Platform",
+  "description": "A high-fidelity fintech platform for seamless cryptocurrency to fiat redemption with real-time tracking and activation gates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
